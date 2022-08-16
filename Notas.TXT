@@ -6,3 +6,5 @@ o division el resultado tiene un caracter especial puede que no reproduzca el au
 punto).
 
 Bastante similar en el algoritmo de alarma
+
+
